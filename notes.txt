@@ -1,0 +1,11 @@
+Variable names can contain only letters, numbers, and underscores. 
+They can start with a letter or an underscore, but not with a number. 
+For instance, you can call a variable message_1 but not 1_message.
+
+.title()
+.upper()
+.lower()
+\t
+\n
+.rstrip()
+.lstrip()
