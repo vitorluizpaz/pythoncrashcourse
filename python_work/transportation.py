@@ -1,0 +1,1 @@
+transportations = ["car", "bus", "airplane"]
