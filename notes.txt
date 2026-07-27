@@ -9,3 +9,10 @@ For instance, you can call a variable message_1 but not 1_message.
 \n
 .rstrip()
 .lstrip()
+.sort(reverse=True or False) -- Permanent change
+sorted(reverse=True or False) temporary change
+reverse -- Permanent
+min, max, sum
+
+if pizza in pizzas
+if pizza not in pizzas
